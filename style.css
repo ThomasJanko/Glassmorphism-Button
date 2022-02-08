@@ -57,7 +57,7 @@ body{
 .container .btn:hover a{
     letter-spacing: 3px;
      color: black; 
-     transition-delay: 0.5s;
+     transition-delay: 0s;
 }
   
 
@@ -96,7 +96,7 @@ body{
     height: 50%;
     width: 80%;
     border-radius: 30px;
-    transition-delay: 0.5s;
+    transition-delay: 0s;
 }
 
 .container .btn::after{
@@ -119,7 +119,7 @@ body{
     height: 50%;
     width: 80%;
     border-radius: 30px;
-    transition-delay: 0.5s;
+    transition-delay: 0.1s;
 }
 .container .btn:nth-child(1)::before,
 .container .btn:nth-child(1)::after{
